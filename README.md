@@ -3,3 +3,4 @@
 ## Place for terraform examples and code 
 
 foo
+bar
